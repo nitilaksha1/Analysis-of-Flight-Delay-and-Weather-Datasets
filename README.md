@@ -1,11 +1,5 @@
 # Analysis of Flight Delays and Weather Datasets using NoSQL
 
-## Team Storage Warriors
-* Abhinay Agrawal
-* Ambuj Nayan
-* Niti Halakatti
-* Rahul Sharma
-
 ## Introduction
 * The goal of this project was to build an application which could ingest, store, analyze, and extract meaningful insights from two different massive data stores.
 * The first of these sources was NOAA (National Oceanic and Atmospheric Administration) and it provided us with hourly synoptic weather observations from station networks around the world. 
